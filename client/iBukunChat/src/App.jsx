@@ -5,8 +5,6 @@ import { useMutation } from 'react-query';
 import { fetchResponse } from './api';
 
 
-import './App.css'
-
 function App() {
   const [ chat, setChat ] = useState([]);
   
@@ -32,7 +30,7 @@ function App() {
       className="bg-[#1A232E] h-screen py-6 relative sm:-28 text-white   
       overflow-hidden flex flex-col justify-between align-middle"
     >
-      {/*Gradient*/}
+      {/*Gradients*/}
       <div className="gradient-01 z-0 absolute"></div>
       <div className="gradient-02 z-0 absolute"></div>
 

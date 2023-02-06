@@ -1,1 +1,9 @@
-In this Reactjs project, we will make an awesome responsive Chat GPT 2.0 website clone step-by-step by using Open AI API. We learn React hooks, tailwind css, open AI integration, and many more. We will also build a backend using Open AI's latest package! You can build your own chatbot interface and then can integrate it into any web service. At the end, we are going to deploy this app on vercel as a full-stack application so you can share your skills with others.
+# ABOUT 
+
+This is a beginner level Reactjs project. It is an awesome responsive Chat GPT 2.0 website clone using the Open AI API. 
+
+The project made use of React hooks, tailwind css, open AI integration, and other frameworks. 
+
+The backend is equally built using the latest Open AI package!
+
+This project can be integrated into any web service.
